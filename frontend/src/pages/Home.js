@@ -94,12 +94,12 @@ const Home = () => {
                     onChange={(e) => setSelectedLocation(e.target.value)}
                     className="w-full px-4 py-3 text-gray-900 rounded-md border border-gray-300 focus:ring-2 focus:ring-primary-500 focus:border-transparent"
                   >
-                    <option value="">All Locations</option>
+                    <option value="">All Locations fgft</option>
                     <option value="New York">New York, NY</option>
                     <option value="Los Angeles">Los Angeles, CA</option>
                     <option value="Chicago">Chicago, IL</option>
                     <option value="Houston">Houston, TX</option>
-                    <option value="Phoenix">Phoenix new, AZ</option>
+                    <option value="Phoenix">Phoenix, AZ</option>
                   </select>
                 </div>
                 <button
