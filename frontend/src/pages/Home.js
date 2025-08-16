@@ -99,7 +99,7 @@ const Home = () => {
                     <option value="Los Angeles">Los Angeles, CA</option>
                     <option value="Chicago">Chicago, IL</option>
                     <option value="Houston">Houston, TX</option>
-                    <option value="Phoenix">Phoenix, AZ</option>
+                    <option value="Phoenix">Phoenix new, AZ</option>
                   </select>
                 </div>
                 <button
